@@ -4,7 +4,7 @@ This repositories installs a package with the shops below. Adding this one shoul
 ```
 Protocol: https
 Host: opennx.github.io
-Path: tinfoil.json
+Path: /cyberfoil.json
 Title: Open NX
 ```
 If it doesn't work, try this way:
@@ -12,7 +12,7 @@ If it doesn't work, try this way:
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: opennx/opennx.github.io/main/tinfoil.json
+Path: opennx/opennx.github.io/main/cyberfoil.json
 Title: Open NX
 ```
 
